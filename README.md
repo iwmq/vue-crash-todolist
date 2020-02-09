@@ -1,5 +1,7 @@
 # vue_crash_todolist
 
+This is my first Vue project based on Traversy Media's Vue crash course.
+
 ## Project setup
 ```
 npm install
